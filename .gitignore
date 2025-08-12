@@ -1,5 +1,17 @@
-.idea/
-target/
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/target/
+
+# IDE
+/.idea/
+/.vscode/
 *.iml
-*.log
+
+# Sistema
 .DS_Store
+Thumbs.db
